@@ -1,16 +1,9 @@
 {
 	"Id": "bbb42ea51bdb46d19a1d685e635fe173",
-	"RecognitionStatus": 0,
-	"Offset": 7500000,
-	"Duration": 13800000,
 	"DisplayText": "Hello.",
 	"NBest": [
 		{
 			"Confidence": 0.975003,
-			"Lexical": "hello",
-			"ITN": "hello",
-			"MaskedITN": "hello",
-			"Display": "Hello.",
 			"PronunciationAssessment": {
 				"AccuracyScore": 100,
 				"FluencyScore": 100,
@@ -20,8 +13,6 @@
 			"Words": [
 				{
 					"Word": "hello",
-					"Offset": 7500000,
-					"Duration": 13800000,
 					"PronunciationAssessment": {
 						"AccuracyScore": 99.0,
 						"ErrorType": "None"
